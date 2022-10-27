@@ -33,5 +33,5 @@ There are many incredible articles that touch on threat detection engineering an
  - Twitter, [Awesome Detection Public Community](https://twitter.com/i/lists/952735755838738432)
 
 ### Other
-[Compiled List of Threat Detection & Hunting Resources](https://github.com/0x4D31/awesome-threat-detection)
-[Detection Engineering Pocketguide by Josh Liburdi](https://github.com/jshlbrd/detection-engineering-pocket-guide)
+- [Compiled List of Threat Detection & Hunting Resources](https://github.com/0x4D31/awesome-threat-detection)
+- [Detection Engineering Pocketguide by Josh Liburdi](https://github.com/jshlbrd/detection-engineering-pocket-guide)
