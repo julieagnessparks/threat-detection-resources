@@ -8,4 +8,4 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
  
-Your contributions are always welcome!  Thank you for your suggestions!
+All contributions are welcome!
